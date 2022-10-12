@@ -15,7 +15,7 @@ namespace projectApp.Controllers
         [HttpGet]
         public String Get()
         {
-          return "Hello Bitches Returns";
+          return "Hello Bitches Returns 2";
 
         }
     }
